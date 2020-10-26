@@ -1,1 +1,0 @@
-# spring-integration-hw-6
